@@ -1,4 +1,4 @@
-package com.titanau.builkmailer;
+package com.ritchieeinstein.builkmailer;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
